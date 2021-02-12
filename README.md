@@ -1,5 +1,5 @@
-# testfordelete
-### teeest
+# What is a blockchain and what does offer to the average user
+### Test
 Blockchain is a specific type of database.
 It differs from a typical database in the way it stores information,blockchains store data in blocks that are then chained together. 
 As new data comes in it is entered into a fresh block. Once the block is filled with data it is chained onto the previous block, which makes the data chained together in chronological order.
